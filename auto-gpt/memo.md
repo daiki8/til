@@ -1,4 +1,8 @@
-# auto-gpt
+# auto-gp
+
+## 話題性
+
+https://twitter.com/NathanLands/status/1646101184384573446
 
 ## 触ってみる
 
