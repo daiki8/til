@@ -9,6 +9,8 @@ https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applicat
 
 https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/generative-ai-for-developers-exploring-new-tools-and-apis-in/ba-p/3817003
 
+https://zenn.dev/microsoft/articles/1a15305021cd01
+
 
 
 
