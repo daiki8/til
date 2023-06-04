@@ -1,5 +1,7 @@
 # ion-inputにカスタムディレクティブをあてる
 
+ionic v5
+
 ```
   @HostListener("ionFocus")
   onFocus(value){
@@ -15,3 +17,4 @@
 ## 参考
 https://forum.ionicframework.com/t/ionblur-event-triggered-on-focus-of-an-element/151040
 https://stackoverflow.com/questions/48703377/how-to-access-value-of-the-input-box-surrounded-by-ion-input-directive
+https://ionicframework.com/docs/v5/api/input
